@@ -32,6 +32,13 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ---
 
+## 💼 What I Bring
+- Ability to transform raw data into meaningful business insights  
+- Strong focus on clarity, storytelling, and decision-making  
+- Hands-on experience building interactive dashboards  
+
+---
+
 ## 📂 Featured Projects
 
 ### 📊 Job Market Insights Dashboard
@@ -57,6 +64,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Anirban's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirban-analytics&show_icons=true&theme=default)
+
+---
+
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/anirban-tarafdar-3b9b29386)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:tarafdaranirban869@gmail.com)
@@ -64,4 +77,5 @@
 ---
 ⭐️ *“Data is the new oil, but insights are the real fuel.”*
 ---
-💡 *I enjoy turning raw data into meaningful insights that drive decisions.*
+---
+💡 *Passionate about leveraging data to drive smarter decisions and real-world impact.*
