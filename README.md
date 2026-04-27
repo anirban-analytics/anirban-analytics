@@ -1,28 +1,27 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Anirban%20Tarafdar&fontSize=36&fontColor=ffffff&animation=fadeIn)
 
-# Hi, I'm Anirban 👋  
-🎯 Aspiring Data Analyst | Power BI • SQL • Python  
-
----
-
-## 🚀 About Me
-- 📊 Passionate about Data Analytics & Visualization  
-- 📈 Skilled in Power BI, SQL, and Python  
-- 🧠 Interested in solving real-world business problems using data  
-- 📍 Based in India  
+# Hi, I'm Anirban 👋    
+🎯 Aspiring Data Analyst passionate about transforming raw data into actionable business insights  
+📊 Skilled in Python, Tableau, and Power BI  
+💡 Focused on solving real-world business problems using data-driven approaches  
 
 ---
 
 ## 🛠️ Skills
 
-### 📊 Data Visualization
-- Power BI  
-- Tableau  
+**Languages & Tools**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Tableau
+- Power BI
+- SQL 
 
 ### 🧠 Data Analysis
 - Exploratory Data Analysis (EDA)  
 - Data Cleaning & Transformation  
-- Statistical Analysis  
+- Statistical Analysis
+- Data Visualization & Dashboarding  
+- Basic NLP & Sentiment Analysis  
+- Business Insight Generation  
  
 ## 🛠️ Tools & Technologies
 
@@ -33,28 +32,44 @@
 ---
 
 ## 💼 What I Bring
-- Ability to transform raw data into meaningful business insights  
-- Strong focus on clarity, storytelling, and decision-making  
-- Hands-on experience building interactive dashboards  
+- Ability to turn **raw data into meaningful insights**  
+- Strong focus on **business-driven analysis**  
+- Experience building **interactive dashboards for decision-making**  
+  
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Job Market Insights Dashboard
-🔗 https://github.com/anirban-analytics/power-bi-job-market-analysis  
+### ✈️ Airline Sentiment Analysis & Engagement Tracker
+- Analyzed 14,000+ airline tweets using NLP & EDA to identify key drivers of customer dissatisfaction  
+- Built an interactive Tableau dashboard for sentiment, complaints, and engagement insights  
 
-- Built an interactive Power BI dashboard analyzing job trends  
-- Identified skill gaps and regional job patterns  
-- Designed retraining priority index for workforce planning  
+🔗 https://github.com/anirban-analytics/airline-sentiment-analysis
+
+---
+
+### 📦 E-commerce Returns & Profitability Analysis
+- Identified key factors driving product returns and profit loss, enabling data-driven strategies to improve profitability  
+- Tools: Python (Pandas), EDA, Data Visualization, Business Analysis  
+
+🔗 https://github.com/anirban-analytics/ecommerce-returns-profitability-analysis
+
+---
+
+### 📊 Power BI Job Market Analysis
+- Analyzed job market trends to identify in-demand skills, roles, and salary patterns for data professionals  
+- Tools: Power BI, Data Cleaning, Data Modeling, Dashboarding  
+
+🔗 https://github.com/anirban-analytics/power-bi-job-market-analysis  
 
 ---
 
 ## 📈 Currently Learning
-- Advanced SQL for Analytics  
-- Data Storytelling & Dashboard Design  
-- Python for Data Analysis  
-
+- Advanced SQL  
+- Machine Learning for Analytics  
+- Real-time Data Analytics  
+  
 ---
 
 ## 📈 What I'm Currently Working On
@@ -73,7 +88,7 @@
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/anirban-tarafdar-3b9b29386)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:tarafdaranirban869@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/anirban-analytics)
+
 ---
 ⭐️ *“Data is the new oil, but insights are the real fuel.”*
 ---
